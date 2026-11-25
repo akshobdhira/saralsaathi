@@ -1,0 +1,7 @@
+SAMPLE — fictional notice for demonstration
+
+Dear Customer, your bank KYC has EXPIRED today. Your account will be BLOCKED in 24 hours.
+To avoid blocking, update KYC immediately: click bit.ly/xyz
+Share the OTP you receive with our KYC officer to complete verification.
+Ignore this message and your account and ATM card will be permanently closed.
+- Bank KYC Team

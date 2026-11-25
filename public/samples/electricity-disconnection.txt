@@ -1,0 +1,24 @@
+SAMPLE — fictional notice for demonstration
+
+State Electricity Distribution Company (sample)
+NOTICE OF DISCONNECTION FOR NON-PAYMENT
+
+Consumer number: 0000-SAMPLE-4417
+Billing period: October 2026
+
+Dear Consumer,
+
+Our records show that your electricity bill of ₹2,450 for the billing period October 2026 is overdue.
+
+Please pay the full amount of ₹2,450 on or before 15/12/2026.
+
+If the payment is not received by 15/12/2026, your electricity supply will be disconnected without further notice. A reconnection fee of ₹150 will be charged to restore supply after disconnection.
+
+You can pay at any authorised collection centre, through the official company website, or through the official mobile app.
+
+For help, call the official electricity helpline 1912. Our staff will never ask for your OTP, PIN or password.
+
+If you have already paid, please ignore this notice.
+
+Assistant Engineer (sample)
+Sub-division Office (sample)
